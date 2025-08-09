@@ -1,1 +1,1 @@
-This repository includes Jupyter Notebooks demonstrating clustering, outlier detection, and representation learning on both structured and image data. Techniques used include Mahalanobis Distance, KDE, DBSCAN, K-Means, and deep learning.
+This repository demonstrates clustering, outlier detection, and representation learning on both structured and unstructured data. Techniques used include KDE, DBSCAN, K-Means, and Deep Learning.
